@@ -1,0 +1,1 @@
+Fix error in anroid :https://github.com/facebook/react-native-fbsdk/pull/339
