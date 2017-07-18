@@ -8,7 +8,6 @@ import {
 import App from './src/App';
 //import App from './src/3rdreactnavigation/App';
 
-
 export default class demo_cross_platform extends Component {
   store = createStore(AppReducer);
   render() {
