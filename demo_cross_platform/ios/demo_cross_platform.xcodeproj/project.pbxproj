@@ -1211,6 +1211,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.demo-cross-platform3005";
 				PRODUCT_NAME = demo_cross_platform;
+				SYSTEM_FRAMEWORK_SEARCH_PATHS = "~/Documents/FacebookSDK";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1242,6 +1243,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.demo-cross-platform3005";
 				PRODUCT_NAME = demo_cross_platform;
+				SYSTEM_FRAMEWORK_SEARCH_PATHS = "~/Documents/FacebookSDK";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
